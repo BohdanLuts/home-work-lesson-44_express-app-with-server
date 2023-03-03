@@ -1,0 +1,19 @@
+{
+  "name": "042_express-app-hw",
+  "version": "1.0.0",
+  "description": "",
+  "private": "true",
+  "scripts": {
+    "start": "node ./server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BohdanLuts/home-work-lesson-42-express-app.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BohdanLuts/home-work-lesson-42-express-app/issues"
+  },
+  "homepage": "https://github.com/BohdanLuts/home-work-lesson-42-express-app#readme"
+}
