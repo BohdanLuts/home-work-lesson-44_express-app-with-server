@@ -19,5 +19,10 @@
   "homepage": "https://github.com/BohdanLuts/home-work-lesson-42-express-app#readme",
   "devDependencies": {
     "nodemon": "^2.0.21"
+  },
+  "dependencies": {
+    "date-fns": "^2.29.3",
+    "express": "^4.18.2",
+    "uuid": "^9.0.0"
   }
 }
